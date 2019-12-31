@@ -1,0 +1,2 @@
+# nand2tetris
+The Elements of Computing Systems, also known as “Nand2Tetris” is an ambitious course / project series/ book attempting to give you a cohesive understanding of how everything in a computer works. Each chapter involves building a small piece of the overall system, from writing elementary logic gates in HDL, through a CPU and assembler, all the way to an application the size of a Tetris game.
